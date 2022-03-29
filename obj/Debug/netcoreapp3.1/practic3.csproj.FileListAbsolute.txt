@@ -1,0 +1,14 @@
+C:\Users\Asus\source\repos\practic3\practic3\bin\Debug\netcoreapp3.1\practic3.exe
+C:\Users\Asus\source\repos\practic3\practic3\bin\Debug\netcoreapp3.1\practic3.deps.json
+C:\Users\Asus\source\repos\practic3\practic3\bin\Debug\netcoreapp3.1\practic3.runtimeconfig.json
+C:\Users\Asus\source\repos\practic3\practic3\bin\Debug\netcoreapp3.1\practic3.runtimeconfig.dev.json
+C:\Users\Asus\source\repos\practic3\practic3\bin\Debug\netcoreapp3.1\practic3.dll
+C:\Users\Asus\source\repos\practic3\practic3\bin\Debug\netcoreapp3.1\practic3.pdb
+C:\Users\Asus\source\repos\practic3\practic3\obj\Debug\netcoreapp3.1\practic3.csproj.AssemblyReference.cache
+C:\Users\Asus\source\repos\practic3\practic3\obj\Debug\netcoreapp3.1\practic3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\source\repos\practic3\practic3\obj\Debug\netcoreapp3.1\practic3.AssemblyInfoInputs.cache
+C:\Users\Asus\source\repos\practic3\practic3\obj\Debug\netcoreapp3.1\practic3.AssemblyInfo.cs
+C:\Users\Asus\source\repos\practic3\practic3\obj\Debug\netcoreapp3.1\practic3.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\practic3\practic3\obj\Debug\netcoreapp3.1\practic3.dll
+C:\Users\Asus\source\repos\practic3\practic3\obj\Debug\netcoreapp3.1\practic3.pdb
+C:\Users\Asus\source\repos\practic3\practic3\obj\Debug\netcoreapp3.1\practic3.genruntimeconfig.cache
